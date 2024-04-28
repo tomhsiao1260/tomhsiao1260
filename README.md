@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there. This is Yao 👋
 
-<!--
-**tomhsiao1260/tomhsiao1260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌋 I'm currently working on [Vesuvius Chellenge](https://scrollprize.org/)
+- 🌱 Computer graphics related work on [X](https://twitter.com/yao1260)
+- 📚 I'm currently interested in computer history and paleontology
 
-Here are some ideas to get you started:
+</br></br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://discord.gg/5XzuP2pg"><img src="https://img.shields.io/discord/1231864138125545503?style=flat&logo=discord&logoColor=white&label=Discord&color=%23404eed" /></a>
+</p>
+
+🔥 Here's a Discord channel for me to write down all journeys mentioned above. Most are personal notes written in Mandarin. But English is also welcome so feel free to reach out me there!
+
+📜 上面是我的個人筆記社群，上古卷軸研究團，記錄了維蘇威挑戰日常、圖學知識、古生物筆記，歡迎交流！
