@@ -1,10 +1,16 @@
 ### Hi there. This is Yao 👋
 
 - 🌋 I'm currently working on [Vesuvius Chellenge](https://scrollprize.org/)
-- 🌱 Computer graphics related work on [X](https://twitter.com/yao1260)
 - 📚 I'm currently interested in computer history and paleontology
+- 🌱 Computer graphics related work on [X](https://twitter.com/yao1260)
 
-</br></br>
+</br>
+
+<p align="center">
+  <img width="500px" src="https://github.com/tomhsiao1260/tomhsiao1260/assets/31985811/87262d49-b549-42dc-96c2-964b12615894"/>
+</p>
+
+</br>
 
 <p align="center">
   <a href="https://discord.gg/5XzuP2pg"><img src="https://img.shields.io/discord/1231864138125545503?style=flat&logo=discord&logoColor=white&label=Discord&color=%23404eed" /></a>
