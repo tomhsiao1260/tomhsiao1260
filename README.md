@@ -13,7 +13,7 @@
 </br>
 
 <p align="center">
-  <a href="https://discord.gg/vQk28CF3mg"><img src="https://img.shields.io/discord/1231864138125545503?style=flat&logo=discord&logoColor=white&label=Discord&color=%23404eed" /></a>
+  <a href="https://discord.gg/vQk28CF3mg"><img src="https://img.shields.io/discord/1093137029157621840?style=flat&logo=discord&logoColor=white&label=Discord&color=%23404eed" /></a>
 </p>
 
 🔥 Here's a Discord channel for me to write down all journeys mentioned above. Most are personal notes written in Mandarin. But English is also welcome so feel free to reach out me there!
